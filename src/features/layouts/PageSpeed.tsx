@@ -152,13 +152,13 @@ const PageSpeed = () => {
                             contribute to faster page loads. Additionally, tools
                             like Google PageSpeed Insights and GTmetrix provide
                             valuable insights and recommendations for optimizing
-                            page speed. It's essential to regularly monitor and
-                            optimize page speed as it directly affects SEO
+                            page speed. It&apos;s essential to regularly monitor
+                            and optimize page speed as it directly affects SEO
                             rankings; search engines prioritize fast-loading
                             sites, resulting in higher visibility and more
-                            traffic. In today's fast-paced digital world, users
-                            expect instant access to information, and even a
-                            delay of a few seconds can lead to a loss of
+                            traffic. In today&apos;s fast-paced digital world,
+                            users expect instant access to information, and even
+                            a delay of a few seconds can lead to a loss of
                             potential customers. Therefore, prioritizing page
                             speed is not just about enhancing user experience
                             but also about staying competitive in the market and
